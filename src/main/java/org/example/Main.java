@@ -8,7 +8,7 @@ public class Main {
     System.out.printf("Hello and welcome!");
     System.out.printf("testtest"+"master"+"test1");
     System.out.println("test2222222");
-    System.out.println("newTesttest");
+    System.out.println("newTestWeb");
     System.out.println("newTestMasterToDEV");
     System.out.println("newTestLocal");
     System.out.println("newTestLocal2");
