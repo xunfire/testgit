@@ -29,6 +29,7 @@ public class Main {
       System.out.println("testDEV");
       System.out.println("hasjdkhasjkhdkjashdkj");
       System.out.println("fixbug");
+      System.out.println("newFeature");
       System.out.println("newnewnenwenwnenwenwew");
       System.out.println("fixnewbug");
       System.out.println("fixnewbug");
