@@ -11,6 +11,7 @@ public class Main {
     System.out.println("newTesttest");
     System.out.println("newTestMasterToDEV");
     System.out.println("newTestLocal");
+    System.out.println("newTestLocal2");
     System.out.println("newTestWEB");
     System.out.println("newTestWEB  1");
     System.out.println("newTestWEB  2");
