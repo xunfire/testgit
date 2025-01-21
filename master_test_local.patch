@@ -1,0 +1,18 @@
+Subject: [PATCH] master_test_local
+---
+Index: src/main/java/org/example/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/org/example/Main.java b/src/main/java/org/example/Main.java
+--- a/src/main/java/org/example/Main.java	(revision 3eb81e54315587e84c51583154bf7f7b762b7da5)
++++ b/src/main/java/org/example/Main.java	(revision df26dc10f6bac1ce684ea89181f415217a703b60)
+@@ -10,6 +10,7 @@
+     System.out.println("test2222222");
+     System.out.println("newTesttest");
+     System.out.println("newTestMasterToDEV");
++    System.out.println("newTestLocal");
+     System.out.println("newTestWEB");
+     for (int i = 1; i <= 5; i++) {//TIP 按 <shortcut actionId="Debug"/> 开始调试代码。我们已经设置了一个 <icon src="AllIcons.Debugger.Db_set_breakpoint"/> 断点
+       // 但您始终可以通过按 <shortcut actionId="ToggleLineBreakpoint"/> 添加更多断点。
